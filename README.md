@@ -4,9 +4,11 @@
 
 # 💼 Awesome Digital Sales Room Ecosystem 🚀
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Digital-Sales-Room/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > **A Curated Directory of Digital Sales Rooms (DSR), Buyer Enablement Portals, Mutual Action Plans (MAP), Deal Collaboration Hubs, and Open-Source Building Blocks for B2B Revenue Teams.** 📈
 
@@ -19,7 +21,9 @@
 - [🛠️ Open-Source GitHub Projects & DIY Stacks](#️-open-source-github-projects--diy-stacks)
 - [🧩 Composable Open-Source Architecture](#-composable-open-source-architecture)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer](#️-disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -101,11 +105,28 @@ Contributions to expand and update this list are warmly welcomed! 🌟
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for exploring this repository! If you find this digital sales room curated list helpful, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your support!
+- 🍴 **Fork** and contribute new tools or updates.
+- 📢 **Share** with your revenue operations & sales engineering teams.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚠️ Disclaimer
 
 - This repository is a **community-curated list** for informational and research purposes only.
 - Digital Sales Rooms often process sensitive commercial data and personal buyer information. Always enforce access controls, set link expiration, and comply with privacy regulations (GDPR/CCPA).
 - Company revenue/valuation estimates are compiled from public market data and industry intelligence reports.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Sales-Room&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Sales-Room&type=date&legend=top-left)
 
 ---
 
